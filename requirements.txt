@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+ollama
+mysql-connector-python
+chromadb
+sentence-transformers
+python-dotenv
+requests
+pydantic
